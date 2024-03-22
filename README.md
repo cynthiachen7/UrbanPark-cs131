@@ -1,3 +1,4 @@
 # CS131 Final Project
-UrbanPark
+Title: "UrbanPark: Street Parking Detection Through Computer Vision"
+
 by Cynthia Chen and Abhi Agarwal
